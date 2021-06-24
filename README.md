@@ -5,7 +5,7 @@
 
 #### 1.1. Clone the repo
 ```bash
-git clone https://github.com/leonardopache/
+git clone https://github.com/leonardopache/atividade_curso_nivelador
 ```
 
 #### 1.2. Download the needed packages from npm
