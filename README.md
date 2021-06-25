@@ -25,7 +25,7 @@ npm run start
 
 You should see in your terminal:
 ```bash
-Server running at http://127.0.0.1:8080/
+Running on http://0.0.0.0:8080
 ```
 
 #### 1.4. Open http://127.0.0.1:8080/ in your browser.
